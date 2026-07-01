@@ -1,4 +1,4 @@
-on terminal type 
+on terminal type <br />
 cd [YOUR_FILE_PATH]
 ----
 to run
