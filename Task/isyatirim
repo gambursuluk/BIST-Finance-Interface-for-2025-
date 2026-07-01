@@ -1,0 +1,7 @@
+from isyatirimhisse import fetch_stock_data, fetch_index_data, fetch_financials
+
+df = fetch_stock_data(
+    symbols = "THYAO",
+    start_date = "01.01.2025",
+    end_date = "01.01.2026"
+)

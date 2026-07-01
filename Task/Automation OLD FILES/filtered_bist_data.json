@@ -1,0 +1,3442 @@
+[
+    {
+        "ticker": "ACSEL",
+        "companyName": "ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ADEL",
+        "companyName": "ADEL KALEMCİLİK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ADESE",
+        "companyName": "ADESE GAYRİMENKUL YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ADLVY",
+        "companyName": "ADİL VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ADGYO",
+        "companyName": "ADRA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AFYON",
+        "companyName": "AFYON ÇİMENTO SANAYİ T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AGHOL",
+        "companyName": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AGESA",
+        "companyName": "AGESA HAYAT VE EMEKLİLİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AGROT",
+        "companyName": "AGROTECH YÜKSEK TEKNOLOJİ VE YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AAGYO",
+        "companyName": "AĞAOĞLU AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AHSGY",
+        "companyName": "AHES GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AHGAZ",
+        "companyName": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKSFA",
+        "companyName": "AK FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKFK",
+        "companyName": "AK FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKCVR",
+        "companyName": "AKADEMİ ÇEVRE ENTEGRE ATIK YÖNETİMİ ENDÜSTRİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKBNK",
+        "companyName": "AKBANK T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKCNS",
+        "companyName": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKDFA",
+        "companyName": "AKDENİZ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKYHO",
+        "companyName": "AKDENİZ YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKENR",
+        "companyName": "AKENERJİ ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKFGY",
+        "companyName": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKFIS",
+        "companyName": "AKFEN İNŞAAT TURİZM VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKFYE",
+        "companyName": "AKFEN YENİLENEBİLİR ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKHAN",
+        "companyName": "AKHAN UN FABRİKASI VE TARIM ÜRÜNLERİ GIDA SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATEKS",
+        "companyName": "AKIN TEKSTİL A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKSGY",
+        "companyName": "AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKMGY",
+        "companyName": "AKMERKEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKSA",
+        "companyName": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKSEN",
+        "companyName": "AKSA ENERJİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKGRT",
+        "companyName": "AKSİGORTA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKSUE",
+        "companyName": "AKSU ENERJİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AKTVK",
+        "companyName": "AKTİF BANK SUKUK VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALCAR",
+        "companyName": "ALARKO CARRIER SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALGYO",
+        "companyName": "ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALARK",
+        "companyName": "ALARKO HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALCTL",
+        "companyName": "ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALFAS",
+        "companyName": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALJF",
+        "companyName": "ALJ FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALKIM",
+        "companyName": "ALKİM ALKALİ KİMYA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALKA",
+        "companyName": "ALKİM KAĞIT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AYCES",
+        "companyName": "ALTIN YUNUS ÇEŞME TURİSTİK TESİSLER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALTNY",
+        "companyName": "ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALKLC",
+        "companyName": "ALTINKILIÇ GIDA VE SÜT SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ALVES",
+        "companyName": "ALVES KABLO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ANSGR",
+        "companyName": "ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AEFES",
+        "companyName": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ANHYT",
+        "companyName": "ANADOLU HAYAT EMEKLİLİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ASUZU",
+        "companyName": "ANADOLU ISUZU OTOMOTİV SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ANGEN",
+        "companyName": "ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ANELE",
+        "companyName": "ANEL ELEKTRİK PROJE TAAHHÜT VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARCLK",
+        "companyName": "ARÇELİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARDYZ",
+        "companyName": "ARD GRUP BİLİŞİM TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARENA",
+        "companyName": "ARENA BİLGİSAYAR SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARFYE",
+        "companyName": "ARF BİO YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARMGD",
+        "companyName": "ARMADA GIDA TİCARET SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARSAN",
+        "companyName": "ARSAN HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARSVY",
+        "companyName": "ARSAN VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARTMS",
+        "companyName": "ARTEMİS HALI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARZUM",
+        "companyName": "ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ASGYO",
+        "companyName": "ASCE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ASELS",
+        "companyName": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ASTOR",
+        "companyName": "ASTOR ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATAGY",
+        "companyName": "ATA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATATR",
+        "companyName": "ATA TURİZM İŞLETMECİLİK TAŞIMACILIK MADENCİLİK KUYUMCULUK SANAYİ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATAVK",
+        "companyName": "ATA VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATAKP",
+        "companyName": "ATAKEY PATATES GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AGYO",
+        "companyName": "ATAKULE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATLFA",
+        "companyName": "ATILIM FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATSYH",
+        "companyName": "ATLANTİS YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATLAS",
+        "companyName": "ATLAS MENKUL KIYMETLER YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ATATP",
+        "companyName": "ATP YAZILIM VE TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AVOD",
+        "companyName": "A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AVGYO",
+        "companyName": "AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AVTUR",
+        "companyName": "AVRASYA PETROL VE TURİSTİK TESİSLER YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AVHOL",
+        "companyName": "AVRUPA YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AVPGY",
+        "companyName": "AVRUPAKENT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AYDEM",
+        "companyName": "AYDEM YENİLENEBİLİR ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AYEN",
+        "companyName": "AYEN ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AYES",
+        "companyName": "AYES ÇELİK HASIR VE ÇİT SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AYGAZ",
+        "companyName": "AYGAZ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "AZTEK",
+        "companyName": "AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "A1YEN",
+        "companyName": "A1 YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BAGFS",
+        "companyName": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BAHKM",
+        "companyName": "BAHADIR KİMYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BAKAB",
+        "companyName": "BAK AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BALAT",
+        "companyName": "BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BALSU",
+        "companyName": "BALSU GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BNTAS",
+        "companyName": "BANTAŞ BANDIRMA AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BANVT",
+        "companyName": "BANVİT BANDIRMA VİTAMİNLİ YEM SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BARMA",
+        "companyName": "BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BASGZ",
+        "companyName": "BAŞKENT DOĞALGAZ DAĞITIM GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BASCM",
+        "companyName": "BAŞTAŞ BAŞKENT ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BEGYO",
+        "companyName": "BATI EGE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BTCIM",
+        "companyName": "BATIÇİM BATI ANADOLU ÇİMENTO SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BSOKE",
+        "companyName": "BATISÖKE SÖKE ÇİMENTO SANAYİİ T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BYDNR",
+        "companyName": "BAYDÖNER RESTORANLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BAYRK",
+        "companyName": "BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BERA",
+        "companyName": "BERA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRKT",
+        "companyName": "BEREKET VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRKSN",
+        "companyName": "BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BESLR",
+        "companyName": "BESLER GIDA VE KİMYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BESTE",
+        "companyName": "BEST BRANDS GRUP ENERJİ YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BJKAS",
+        "companyName": "BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BEYAZ",
+        "companyName": "BEYAZ FİLO OTO KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIENY",
+        "companyName": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIGTK",
+        "companyName": "BİG MEDYA TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BLCYT",
+        "companyName": "BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BLKOM",
+        "companyName": "BİLKOM BİLİŞİM HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIMAS",
+        "companyName": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BINBN",
+        "companyName": "BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIOEN",
+        "companyName": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRKVY",
+        "companyName": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRKO",
+        "companyName": "BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIGEN",
+        "companyName": "BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRLSM",
+        "companyName": "BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRMEN",
+        "companyName": "BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIZIM",
+        "companyName": "BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BLUME",
+        "companyName": "BLUME METAL KİMYA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BMSTL",
+        "companyName": "BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BMSCH",
+        "companyName": "BMS ÇELİK HASIR SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BNPPI",
+        "companyName": "BNP PARIBAS ISSUANCE B.V.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BOBET",
+        "companyName": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BORSK",
+        "companyName": "BOR ŞEKER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BORLS",
+        "companyName": "BORLEASE OTOMOTİV A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRSAN",
+        "companyName": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRYAT",
+        "companyName": "BORUSAN YATIRIM VE PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BFREN",
+        "companyName": "BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BOSSA",
+        "companyName": "BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEPET",
+        "companyName": "BREAK MOLA TURİZM YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRISA",
+        "companyName": "BRİSA BRİDGESTONE SABANCI LASTİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BULGS",
+        "companyName": "BULLS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BURCE",
+        "companyName": "BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BURVA",
+        "companyName": "BURÇELİK VANA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BRGFK",
+        "companyName": "BURGAN FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BUCIM",
+        "companyName": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BVSAN",
+        "companyName": "BÜLBÜLOĞLU VİNÇ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BIGCH",
+        "companyName": "BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CRFSA",
+        "companyName": "CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CASA",
+        "companyName": "CASA EMTİA PETROL KİMYEVİ VE TÜREVLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CEMZY",
+        "companyName": "CEM ZEYTİN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CEOEM",
+        "companyName": "CEO EVENT MEDYA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CCOLA",
+        "companyName": "COCA-COLA İÇECEK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CONSE",
+        "companyName": "CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "COSMO",
+        "companyName": "COSMOS YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CRDFA",
+        "companyName": "CREDITWEST FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CVKMD",
+        "companyName": "CVK MADEN İŞLETMELERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CWENE",
+        "companyName": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CGCAM",
+        "companyName": "ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CAGFA",
+        "companyName": "ÇAĞDAŞ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CMSAN",
+        "companyName": "ÇAMSAN ENTEGRE AĞAÇ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CANTE",
+        "companyName": "ÇAN2 TERMİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CATES",
+        "companyName": "ÇATES ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CLEBI",
+        "companyName": "ÇELEBİ HAVA SERVİSİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CELHA",
+        "companyName": "ÇELİK HALAT VE TEL SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CLKMT",
+        "companyName": "ÇELİK MOTOR TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CEMAS",
+        "companyName": "ÇEMAŞ DÖKÜM SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CEMTS",
+        "companyName": "ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CMBTN",
+        "companyName": "ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CMENT",
+        "companyName": "ÇİMENTAŞ İZMİR ÇİMENTO FABRİKASI T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CIMSA",
+        "companyName": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "CUSAN",
+        "companyName": "ÇUHADAROĞLU METAL SANAYİ VE PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DVRLK",
+        "companyName": "D VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DYBNK",
+        "companyName": "D YATIRIM BANKASI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DAGI",
+        "companyName": "DAGİ GİYİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DAPGM",
+        "companyName": "DAP GAYRİMENKUL GELİŞTİRME A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DARDL",
+        "companyName": "DARDANEL ÖNENTAŞ GIDA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DGATE",
+        "companyName": "DATAGATE BİLGİSAYAR MALZEMELERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DCTTR",
+        "companyName": "DCT TRADİNG DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DGRVK",
+        "companyName": "DEĞER VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DMSAS",
+        "companyName": "DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DENVA",
+        "companyName": "DENGE VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DENGE",
+        "companyName": "DENGE YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DNZEN",
+        "companyName": "DENİZ EKO ENERJİ VE GERİ DÖNÜŞÜM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DENFA",
+        "companyName": "DENİZ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DNFIN",
+        "companyName": "DENİZ FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DZGYO",
+        "companyName": "DENİZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DERIM",
+        "companyName": "DERİMOD KONFEKSİYON AYAKKABI DERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DERHL",
+        "companyName": "DERLÜKS YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DESA",
+        "companyName": "DESA DERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DESPC",
+        "companyName": "DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DSTKF",
+        "companyName": "DESTEK FİNANS FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DEVA",
+        "companyName": "DEVA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DIMES",
+        "companyName": "DİMES GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DNISI",
+        "companyName": "DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DIRIT",
+        "companyName": "DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DITAS",
+        "companyName": "DİTAŞ BDY YEDEK PARÇA İMALAT VE TEKNİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DKVRL",
+        "companyName": "DK VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DMRGD",
+        "companyName": "DMR UNLU MAMULLER ÜRETİM GIDA TOPTAN PERAKENDE İHRACAT A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOCO",
+        "companyName": "DO & CO AKTIENGESELLSCHAFT",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOFRB",
+        "companyName": "DOF ROBOTİK SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOFER",
+        "companyName": "DOFER YAPI MALZEMELERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOHOL",
+        "companyName": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DGNMO",
+        "companyName": "DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOGVY",
+        "companyName": "DOĞRU VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ARASE",
+        "companyName": "DOĞU ARAS ENERJİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOGUB",
+        "companyName": "DOĞUSAN BORU SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DGGYO",
+        "companyName": "DOĞUŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOAS",
+        "companyName": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DFKTR",
+        "companyName": "DORUK FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DOKTA",
+        "companyName": "DÖKTAŞ DÖKÜMCÜLÜK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DURDO",
+        "companyName": "DURAN DOĞAN BASIM VE AMBALAJ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DURKN",
+        "companyName": "DURUKAN ŞEKERLEME SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DUNYH",
+        "companyName": "DÜNYA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DNYVA",
+        "companyName": "DÜNYA VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DYOBY",
+        "companyName": "DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EBEBK",
+        "companyName": "EBEBEK MAĞAZACILIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ECOGR",
+        "companyName": "ECOGREEN ENERJİ HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ECZYT",
+        "companyName": "ECZACIBAŞI YATIRIM HOLDİNG ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EDATA",
+        "companyName": "E-DATA TEKNOLOJİ PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EDIP",
+        "companyName": "EDİP GAYRİMENKUL YATIRIM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EFOR",
+        "companyName": "EFOR YATIRIM SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGEEN",
+        "companyName": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGGUB",
+        "companyName": "EGE GÜBRE SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGPRO",
+        "companyName": "EGE PROFİL TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGSER",
+        "companyName": "EGE SERAMİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EPLAS",
+        "companyName": "EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGEGY",
+        "companyName": "EGEYAPI AVRUPA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ECZIP",
+        "companyName": "EİP ECZACIBAŞI İLAÇ PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ECILC",
+        "companyName": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKER",
+        "companyName": "EKER SÜT ÜRÜNLERİ GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKDMR",
+        "companyName": "EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKIZ",
+        "companyName": "EKİZ KİMYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKOFA",
+        "companyName": "EKO FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKOS",
+        "companyName": "EKOS TEKNOLOJİ VE ELEKTRİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKSUN",
+        "companyName": "EKSUN GIDA TARIM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ELITE",
+        "companyName": "ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EMKEL",
+        "companyName": "EMEK ELEKTRİK ENDÜSTRİSİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EMNIS",
+        "companyName": "EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EMIRV",
+        "companyName": "EMİR VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKTVK",
+        "companyName": "EMLAK KATILIM VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DMLKT",
+        "companyName": "EMLAK KONUT DAMLA KENT GMS",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EKGYO",
+        "companyName": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EMVAR",
+        "companyName": "EMLAK VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EMPAE",
+        "companyName": "EMPA ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENDAE",
+        "companyName": "ENDA ENERJİ HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENJSA",
+        "companyName": "ENERJİSA ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENERY",
+        "companyName": "ENERYA ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENKAI",
+        "companyName": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENPRA",
+        "companyName": "ENPARA BANK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENSRI",
+        "companyName": "ENSARİ SINAİ YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ERBOS",
+        "companyName": "ERBOSAN ERCİYAS BORU SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ERCB",
+        "companyName": "ERCİYAS ÇELİK BORU SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EREGL",
+        "companyName": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ERGLI",
+        "companyName": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KIMMR",
+        "companyName": "ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ERSU",
+        "companyName": "ERSU MEYVE VE GIDA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ESCAR",
+        "companyName": "ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ESCOM",
+        "companyName": "ESCORT TEKNOLOJİ YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ESEN",
+        "companyName": "ESENBOĞA ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ETILR",
+        "companyName": "ETİLER GIDA VE TİCARİ YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EUKYO",
+        "companyName": "EURO KAPİTAL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EUYO",
+        "companyName": "EURO MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ETYAT",
+        "companyName": "EURO TREND YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EUHOL",
+        "companyName": "EURO YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TEZOL",
+        "companyName": "EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EUREN",
+        "companyName": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EUPWR",
+        "companyName": "EUROPOWER ENERJİ VE OTOMASYON TEKNOLOJİLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EYGYO",
+        "companyName": "EYG GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FADE",
+        "companyName": "FADE GIDA YATIRIM SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FAIRF",
+        "companyName": "FAİR FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FMIZP",
+        "companyName": "FEDERAL MOGUL İZMİT PİSTON VE PİM ÜRETİM TESİSLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FENER",
+        "companyName": "FENERBAHÇE FUTBOL A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FKPET",
+        "companyName": "FİKRET PETROL ÜRÜNLERİ PAZARLAMA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FLAP",
+        "companyName": "FLAP KONGRE TOPLANTI HİZMETLERİ OTOMOTİV VE TURİZM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FONET",
+        "companyName": "FONET BİLGİ TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FROTO",
+        "companyName": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FORMT",
+        "companyName": "FORMET METAL VE CAM SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FRMPL",
+        "companyName": "FORMÜL PLASTİK VE METAL SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FORTE",
+        "companyName": "FORTE BİLGİ İLETİŞİM TEKNOLOJİLERİ VE SAVUNMA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FRIGO",
+        "companyName": "FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "FZLGY",
+        "companyName": "FUZUL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GWIND",
+        "companyName": "GALATA WIND ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GSRAY",
+        "companyName": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GARFA",
+        "companyName": "GARANTİ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GARFL",
+        "companyName": "GARANTİ FİLO YÖNETİM HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GRNYO",
+        "companyName": "GARANTİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GATEG",
+        "companyName": "GATE GROUP TEKNOLOJİ MEDYA VE SİBER GÜVENLİK HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GEDIK",
+        "companyName": "GEDİK YATIRIM MENKUL DEĞERLER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GEDZA",
+        "companyName": "GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GLCVY",
+        "companyName": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GENIL",
+        "companyName": "GEN İLAÇ VE SAĞLIK ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GENTS",
+        "companyName": "GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GENKM",
+        "companyName": "GENTAŞ KİMYA SANAYİ VE TİCARET PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GEREL",
+        "companyName": "GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GZNMI",
+        "companyName": "GEZİNOMİ SEYAHAT TURİZM TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GIPTA",
+        "companyName": "GIPTA OFİS KIRTASİYE VE PROMOSYON ÜRÜNLERİ İMALAT SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GMTAS",
+        "companyName": "GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GESAN",
+        "companyName": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GLYHO",
+        "companyName": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GGBVK",
+        "companyName": "GOLDEN GLOBAL VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GSIPD",
+        "companyName": "GOLDMAN SACHS INTERNATIONAL",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GOODY",
+        "companyName": "GOODYEAR LASTİKLERİ T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GOKNR",
+        "companyName": "GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GOLTS",
+        "companyName": "GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GOZDE",
+        "companyName": "GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GRTHO",
+        "companyName": "GRAINTURK HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GSDDE",
+        "companyName": "GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GSDHO",
+        "companyName": "GSD HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GUBRF",
+        "companyName": "GÜBRE FABRİKALARI T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GLRYH",
+        "companyName": "GÜLER YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GLRMK",
+        "companyName": "GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GUNDG",
+        "companyName": "GÜNDOĞDU GIDA SÜT ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GRSEL",
+        "companyName": "GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "GYVAR",
+        "companyName": "GY VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SAHOL",
+        "companyName": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HALKF",
+        "companyName": "HALK FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HLGYO",
+        "companyName": "HALK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HLVKS",
+        "companyName": "HALK VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HRKET",
+        "companyName": "HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HATEK",
+        "companyName": "HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HATSN",
+        "companyName": "HAT-SAN GEMİ İNŞAA BAKIM ONARIM DENİZ NAKLİYAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HAYVK",
+        "companyName": "HAYAT VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HDFFL",
+        "companyName": "HEDEF ARAÇ KİRALAMA VE SERVİS A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HDFGS",
+        "companyName": "HEDEF GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HEDEF",
+        "companyName": "HEDEF HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HDFVK",
+        "companyName": "HEDEF VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HEKTS",
+        "companyName": "HEKTAŞ TİCARET T.A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HKTM",
+        "companyName": "HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HTTBT",
+        "companyName": "HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HOROZ",
+        "companyName": "HOROZ LOJİSTİK KARGO HİZMETLERİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HUBVC",
+        "companyName": "HUB GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HUNER",
+        "companyName": "HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HUZFA",
+        "companyName": "HUZUR FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "HURGZ",
+        "companyName": "HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ENTRA",
+        "companyName": "IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ICUGS",
+        "companyName": "ICU GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INGRM",
+        "companyName": "INGRAM MİCRO BİLİŞİM SİSTEMLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INVEO",
+        "companyName": "INVEO YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INVES",
+        "companyName": "INVESTCO HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISKPL",
+        "companyName": "IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IEYHO",
+        "companyName": "IŞIKLAR ENERJİ VE YAPI HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IDGYO",
+        "companyName": "İDEALİST GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHEVA",
+        "companyName": "İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHLGM",
+        "companyName": "İHLAS GAYRİMENKUL PROJE GELİŞTİRME VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHGZT",
+        "companyName": "İHLAS GAZETECİLİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHAAS",
+        "companyName": "İHLAS HABER AJANSI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHLAS",
+        "companyName": "İHLAS HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IHYAY",
+        "companyName": "İHLAS YAYIN HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IMASM",
+        "companyName": "İMAŞ MAKİNA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INDES",
+        "companyName": "İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INTEK",
+        "companyName": "İNNOSA TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "INTEM",
+        "companyName": "İNTEMA İNŞAAT VE TESİSAT MALZEMELERİ YATIRIM VE PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISDMR",
+        "companyName": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISTFK",
+        "companyName": "İSTANBUL FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISTVY",
+        "companyName": "İSTANBUL VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISFAK",
+        "companyName": "İŞ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISFIN",
+        "companyName": "İŞ FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISGYO",
+        "companyName": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISGSY",
+        "companyName": "İŞ GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISYAT",
+        "companyName": "İŞ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISBIR",
+        "companyName": "İŞBİR HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ISSEN",
+        "companyName": "İŞBİR SENTETİK DOKUMA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IZINV",
+        "companyName": "İZ YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IZENR",
+        "companyName": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IZMDC",
+        "companyName": "İZMİR DEMİR ÇELİK SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "IZFAS",
+        "companyName": "İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "JANTS",
+        "companyName": "JANTSA JANT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KFEIN",
+        "companyName": "KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLKIM",
+        "companyName": "KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLSER",
+        "companyName": "KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLVKS",
+        "companyName": "KALKINMA YATIRIM VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLYPV",
+        "companyName": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KTEST",
+        "companyName": "KAP TEST A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KPTGY",
+        "companyName": "KAPİTAL GAYRİMENKUL YATIRIMI GELİŞTİRME VE İŞLETMECİLİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KAPLM",
+        "companyName": "KAPLAMİN AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KAREL",
+        "companyName": "KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KARSN",
+        "companyName": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRTEK",
+        "companyName": "KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KARTN",
+        "companyName": "KARTONSAN KARTON SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KATVK",
+        "companyName": "KATILIM VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KTLEV",
+        "companyName": "KATILIMEVİM TASARRUF FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KATMR",
+        "companyName": "KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KFILO",
+        "companyName": "KAYATUR FİLO KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KAYSE",
+        "companyName": "KAYSERİ ŞEKER FABRİKASI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KNTFA",
+        "companyName": "KENT FİNANS FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KENT",
+        "companyName": "KENT GIDA MADDELERİ SANAYİİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRVGD",
+        "companyName": "KERVAN GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KERVN",
+        "companyName": "KERVANSARAY YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TCKRC",
+        "companyName": "KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KZBGY",
+        "companyName": "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLGYO",
+        "companyName": "KİLER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLRHO",
+        "companyName": "KİLER HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KMPUR",
+        "companyName": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLMSN",
+        "companyName": "KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KCAER",
+        "companyName": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KOCFN",
+        "companyName": "KOÇ FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KCHOL",
+        "companyName": "KOÇ HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KOCMT",
+        "companyName": "KOÇ METALURJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KSFIN",
+        "companyName": "KOÇ STELLANTİS FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KLSYN",
+        "companyName": "KOLEKSİYON MOBİLYA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KNFRT",
+        "companyName": "KONFRUT TARIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KONTR",
+        "companyName": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KONYA",
+        "companyName": "KONYA ÇİMENTO SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KONKA",
+        "companyName": "KONYA KAĞIT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KGYO",
+        "companyName": "KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KORDS",
+        "companyName": "KORDSA TEKNİK TEKSTİL A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRPLS",
+        "companyName": "KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KORTS",
+        "companyName": "KORTEKS MENSUCAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KOTON",
+        "companyName": "KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KOPOL",
+        "companyName": "KOZA POLYESTER SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRGYO",
+        "companyName": "KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRSTL",
+        "companyName": "KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KRONT",
+        "companyName": "KRON TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KTKVK",
+        "companyName": "KT KİRA SERTİFİKALARI VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KTSVK",
+        "companyName": "KT SUKUK VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KSTUR",
+        "companyName": "KUŞTUR KUŞADASI TURİZM ENDÜSTRİSİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KUVVA",
+        "companyName": "KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KUYAS",
+        "companyName": "KUYAŞ YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KBORU",
+        "companyName": "KUZEY BORU A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KZGYO",
+        "companyName": "KUZUGRUP GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KUTPO",
+        "companyName": "KÜTAHYA PORSELEN SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "KTSKR",
+        "companyName": "KÜTAHYA ŞEKER FABRİKASI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LIDER",
+        "companyName": "LDR TURİZM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LIDFA",
+        "companyName": "LİDER FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LILAK",
+        "companyName": "LİLA KAĞIT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LMKDC",
+        "companyName": "LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LINK",
+        "companyName": "LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LOGO",
+        "companyName": "LOGO YAZILIM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LKMNH",
+        "companyName": "LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LRSHO",
+        "companyName": "LORAS HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LXGYO",
+        "companyName": "LUXERA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LUKSK",
+        "companyName": "LÜKS KADİFE TİCARET VE SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LYDHO",
+        "companyName": "LYDİA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "LYDYE",
+        "companyName": "LYDİA YEŞİL ENERJİ KAYNAKLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MACKO",
+        "companyName": "MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MAKIM",
+        "companyName": "MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MAKTK",
+        "companyName": "MAKİNA TAKIM ENDÜSTRİSİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MANAS",
+        "companyName": "MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MAGEN",
+        "companyName": "MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MRMAG",
+        "companyName": "MARKA MAĞAZACILIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MARKA",
+        "companyName": "MARKA YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MARMR",
+        "companyName": "MARMARA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MAALT",
+        "companyName": "MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MRSHL",
+        "companyName": "MARSHALL BOYA VE VERNİK SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MRGYO",
+        "companyName": "MARTI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MARTI",
+        "companyName": "MARTI OTEL İŞLETMELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MTRKS",
+        "companyName": "MATRİKS FİNANSAL TEKNOLOJİLER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MAVI",
+        "companyName": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MZHLD",
+        "companyName": "MAZHAR ZORLU HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MDIAZ",
+        "companyName": "MEDİAZZ YENİ MEDYA VE TEKNOLOJİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEDTR",
+        "companyName": "MEDİTERA TIBBİ MALZEME SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEGMT",
+        "companyName": "MEGA METAL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEGAP",
+        "companyName": "MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEKAG",
+        "companyName": "MEKA GLOBAL MAKİNE İMALAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MNDRS",
+        "companyName": "MENDERES TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MERCN",
+        "companyName": "MERCAN KİMYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MRBKF",
+        "companyName": "MERCEDES BENZ KAMYON FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MBFTR",
+        "companyName": "MERCEDES-BENZ FİNANSMAN TÜRK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MERIT",
+        "companyName": "MERİT TURİZM YATIRIM VE İŞLETME A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MERKO",
+        "companyName": "MERKO GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "METEN",
+        "companyName": "METGÜN ENERJİ YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "METRO",
+        "companyName": "METRO TİCARİ VE MALİ YATIRIMLAR HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MTRYO",
+        "companyName": "METRO YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MCARD",
+        "companyName": "METROPAL KURUMSAL HİZMETLER A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MEYSU",
+        "companyName": "MEYSU GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MHRGY",
+        "companyName": "MHR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MIATK",
+        "companyName": "MİA TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MGROS",
+        "companyName": "MİGROS TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MILKS",
+        "companyName": "MİLK ACADEMY SÜT ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MINTF",
+        "companyName": "MİNT FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MSGYO",
+        "companyName": "MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MPARK",
+        "companyName": "MLP SAĞLIK HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MMCAS",
+        "companyName": "MMC SANAYİ VE TİCARİ YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MNGFA",
+        "companyName": "MNG FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MOBTL",
+        "companyName": "MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MOGAN",
+        "companyName": "MOGAN ENERJİ YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MNDTR",
+        "companyName": "MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MOPAS",
+        "companyName": "MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "EGEPO",
+        "companyName": "NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NATEN",
+        "companyName": "NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NTGAZ",
+        "companyName": "NATURELGAZ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NTHOL",
+        "companyName": "NET HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NETAS",
+        "companyName": "NETAŞ TELEKOMÜNİKASYON A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NETCD",
+        "companyName": "NETCAD YAZILIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NIBAS",
+        "companyName": "NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NUHCM",
+        "companyName": "NUH ÇİMENTO SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NUGYO",
+        "companyName": "NUROL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "NURVK",
+        "companyName": "NUROL VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OBAMS",
+        "companyName": "OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OBASE",
+        "companyName": "OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ODAS",
+        "companyName": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ODINE",
+        "companyName": "ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OFSYM",
+        "companyName": "OFİS YEM GIDA SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ONCSM",
+        "companyName": "ONCOSEM ONKOLOJİK SİSTEMLER SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ONRYT",
+        "companyName": "ONUR YÜKSEK TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OPET",
+        "companyName": "OPET PETROLCÜLÜK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ORCAY",
+        "companyName": "ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ORFIN",
+        "companyName": "ORFİN FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ORGE",
+        "companyName": "ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ORMA",
+        "companyName": "ORMA ORMAN MAHSÜLLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OSVKS",
+        "companyName": "OSMANLI VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OSTIM",
+        "companyName": "OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OTKAR",
+        "companyName": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OTOSR",
+        "companyName": "OTOSOR OTOMOTİV A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OTTO",
+        "companyName": "OTTO HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OYAKC",
+        "companyName": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OYAYO",
+        "companyName": "OYAK YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OYLUM",
+        "companyName": "OYLUM SINAİ YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZKGY",
+        "companyName": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZATD",
+        "companyName": "ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZGYO",
+        "companyName": "ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZRDN",
+        "companyName": "ÖZERDEN AMBALAJ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZSUB",
+        "companyName": "ÖZSU BALIK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "OZYSR",
+        "companyName": "ÖZYAŞAR TEL VE GALVANİZLEME SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PAMEL",
+        "companyName": "PAMEL YENİLENEBİLİR ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PNLSN",
+        "companyName": "PANELSAN ÇATI CEPHE SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PAGYO",
+        "companyName": "PANORA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PAPIL",
+        "companyName": "PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PRFFK",
+        "companyName": "PARAFİNANS FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PRDGS",
+        "companyName": "PARDUS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PRKME",
+        "companyName": "PARK ELEKTRİK ÜRETİM MADENCİLİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PARSN",
+        "companyName": "PARSAN MAKİNA PARÇALARI SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PASEU",
+        "companyName": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PSGYO",
+        "companyName": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PAHOL",
+        "companyName": "PASİFİK HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PATEK",
+        "companyName": "PASİFİK TEKNOLOJİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PCILT",
+        "companyName": "PC İLETİŞİM VE MEDYA HİZMETLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PGSUS",
+        "companyName": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PEKGY",
+        "companyName": "PEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PENGD",
+        "companyName": "PENGUEN GIDA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PENTA",
+        "companyName": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PSDTC",
+        "companyName": "PERGAMON STATUS DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PETKM",
+        "companyName": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PKENT",
+        "companyName": "PETROKENT TURİZM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PETUN",
+        "companyName": "PINAR ENTEGRE ET VE UN SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PINSU",
+        "companyName": "PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PNSUT",
+        "companyName": "PINAR SÜT MAMÜLLERİ SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PKART",
+        "companyName": "PLASTİKKART AKILLI KART İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PLTUR",
+        "companyName": "PLATFORM TURİZM TAŞIMACILIK GIDA İNŞAAT TEMİZLİK HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "POLHO",
+        "companyName": "POLİSAN HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "POLTK",
+        "companyName": "POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PRZMA",
+        "companyName": "PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QYHOL",
+        "companyName": "Q YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QNBFF",
+        "companyName": "QNB FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QNBFK",
+        "companyName": "QNB FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QNBVK",
+        "companyName": "QNB VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QUAGR",
+        "companyName": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "QUFIN",
+        "companyName": "QUICK FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RNPOL",
+        "companyName": "RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RALYH",
+        "companyName": "RAL YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RAYSG",
+        "companyName": "RAY SİGORTA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "REEDR",
+        "companyName": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RYGYO",
+        "companyName": "REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RYSAS",
+        "companyName": "REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RODRG",
+        "companyName": "RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RGYAS",
+        "companyName": "RÖNESANS GAYRİMENKUL YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RTALB",
+        "companyName": "RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RUBNS",
+        "companyName": "RUBENİS TEKSTİL SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "RUZYE",
+        "companyName": "RUZY MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SAFKR",
+        "companyName": "SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SANEL",
+        "companyName": "SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SNICA",
+        "companyName": "SANİCA ISI SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SANFM",
+        "companyName": "SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SANKO",
+        "companyName": "SANKO PAZARLAMA İTHALAT İHRACAT A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SAMAT",
+        "companyName": "SARAY MATBAACILIK KAĞITÇILIK KIRTASİYECİLİK TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SARKY",
+        "companyName": "SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SARTN",
+        "companyName": "SARTEN AMBALAJ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SASA",
+        "companyName": "SASA POLYESTER SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SVGYO",
+        "companyName": "SAVUR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SAYAS",
+        "companyName": "SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SDTTR",
+        "companyName": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SEGMN",
+        "companyName": "SEĞMEN KARDEŞLER GIDA ÜRETİM VE AMBALAJ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SEKUR",
+        "companyName": "SEKURO PLASTİK AMBALAJ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SELEC",
+        "companyName": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SELVA",
+        "companyName": "SELVA GIDA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SERNT",
+        "companyName": "SERANİT GRANİT SERAMİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SRVGY",
+        "companyName": "SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SEYKM",
+        "companyName": "SEYİTLER KİMYA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SILVR",
+        "companyName": "SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SNGYO",
+        "companyName": "SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SKYLP",
+        "companyName": "SKYALP FİNANSAL TEKNOLOJİLER VE DANIŞMANLIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SMRTG",
+        "companyName": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SMART",
+        "companyName": "SMARTİKS YAZILIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SODSN",
+        "companyName": "SODAŞ SODYUM SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SOKE",
+        "companyName": "SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SKTAS",
+        "companyName": "SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SONME",
+        "companyName": "SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SNPAM",
+        "companyName": "SÖNMEZ PAMUKLU SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SUMAS",
+        "companyName": "SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SUNTK",
+        "companyName": "SUN TEKSTİL SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SURGY",
+        "companyName": "SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SUWEN",
+        "companyName": "SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SMRFA",
+        "companyName": "SÜMER FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SMRVA",
+        "companyName": "SÜMER VARLIK YÖNETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SEKFK",
+        "companyName": "ŞEKER FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SEGYO",
+        "companyName": "ŞEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SOKM",
+        "companyName": "ŞOK MARKETLER TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TABGD",
+        "companyName": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TAMFA",
+        "companyName": "TAM FİNANS FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TNZTP",
+        "companyName": "TAPDİ OKSİJEN ÖZEL SAĞLIK VE EĞİTİM HİZMETLERİ SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TARKM",
+        "companyName": "TARKİM BİTKİ KORUMA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TATGD",
+        "companyName": "TAT GIDA SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TATEN",
+        "companyName": "TATLIPINAR ENERJİ ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TAVHL",
+        "companyName": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "DRPHN",
+        "companyName": "T.C. HAZİNE VE MALİYE BAKANLIĞI DARPHANE VE DAMGA MATBAASI GENEL MÜDÜRLÜĞÜ",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TEBFA",
+        "companyName": "TEB FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TEKTU",
+        "companyName": "TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TKFEN",
+        "companyName": "TEKFEN HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TKNSA",
+        "companyName": "TEKNOSA İÇ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TMPOL",
+        "companyName": "TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRFFA",
+        "companyName": "TERA FİNANS FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRHOL",
+        "companyName": "TERA FİNANSAL YATIRIMLAR HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TEVKS",
+        "companyName": "TERA VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TEHOL",
+        "companyName": "TERA YATIRIM TEKNOLOJİ HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TFNVK",
+        "companyName": "TF VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TGSAS",
+        "companyName": "TGS DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TIMUR",
+        "companyName": "TİMUR GAYRİMENKUL GELİŞTİRME YAPI VE YATIRIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRYKI",
+        "companyName": "TİRYAKİ AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TOASO",
+        "companyName": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRGYO",
+        "companyName": "TORUNLAR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRMET",
+        "companyName": "TR ANADOLU METAL MADENCİLİK İŞLETMELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRENJ",
+        "companyName": "TR DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TLMAN",
+        "companyName": "TRABZON LİMAN İŞLETMECİLİĞİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TSPOR",
+        "companyName": "TRABZONSPOR SPORTİF YATIRIM VE FUTBOL İŞLETMECİLİĞİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TDGYO",
+        "companyName": "TREND GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TSGYO",
+        "companyName": "TSKB GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TUCLK",
+        "companyName": "TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TUKAS",
+        "companyName": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRCAS",
+        "companyName": "TURCAS HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TUREX",
+        "companyName": "TUREKS TURİZM TAŞIMACILIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "MARBL",
+        "companyName": "TUREKS TURUNÇ MADENCİLİK İÇ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRKFN",
+        "companyName": "TURK FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRILC",
+        "companyName": "TURK İLAÇ VE SERUM SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TCELL",
+        "companyName": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRKNT",
+        "companyName": "TURKNET İLETİŞİM HİZMETLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TMSN",
+        "companyName": "TÜMOSAN MOTOR VE TRAKTÖR SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TUPRS",
+        "companyName": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TRALT",
+        "companyName": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "THYAO",
+        "companyName": "TÜRK HAVA YOLLARI A.O.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "PRKAB",
+        "companyName": "TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TTKOM",
+        "companyName": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TTRAK",
+        "companyName": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TBORG",
+        "companyName": "TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TURGG",
+        "companyName": "TÜRKER PROJE GAYRİMENKUL VE YATIRIM GELİŞTİRME A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TURSG",
+        "companyName": "TÜRKİYE SİGORTA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "SISE",
+        "companyName": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "TV8TV",
+        "companyName": "TV8 TV YAYINCILIK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "UFUK",
+        "companyName": "UFUK YATIRIM YÖNETİM VE GAYRİMENKUL A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ULAS",
+        "companyName": "ULAŞLAR TURİZM ENERJİ TARIM GIDA VE İNŞAAT YATIRIMLARI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ULUFA",
+        "companyName": "ULUSAL FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ULUSE",
+        "companyName": "ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ULUUN",
+        "companyName": "ULUSOY UN SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "UMPAS",
+        "companyName": "UMPAŞ HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "USAK",
+        "companyName": "UŞAK SERAMİK SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "UCAYM",
+        "companyName": "ÜÇAY MÜHENDİSLİK ENERJİ VE İKLİMLENDİRME TEKNOLOJİLERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ULKER",
+        "companyName": "ÜLKER BİSKÜVİ SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "UNLU",
+        "companyName": "ÜNLÜ YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VAKFA",
+        "companyName": "VAKIF FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VAKFN",
+        "companyName": "VAKIF FİNANSAL KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VKGYO",
+        "companyName": "VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VKFYO",
+        "companyName": "VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VAKVK",
+        "companyName": "VAKIF VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VAKKO",
+        "companyName": "VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VANGD",
+        "companyName": "VANET GIDA SANAYİ İÇ VE DIŞ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VBTYZ",
+        "companyName": "VBT YAZILIM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VDFLO",
+        "companyName": "VDF FİLO KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VRGYO",
+        "companyName": "VERA KONSEPT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VERUS",
+        "companyName": "VERUSA HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VERTU",
+        "companyName": "VERUSATURK GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VESBE",
+        "companyName": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VESTL",
+        "companyName": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VKING",
+        "companyName": "VİKİNG KAĞIT VE SELÜLOZ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VSNMD",
+        "companyName": "VİŞNE MADENCİLİK ÜRETİM SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "VDFAS",
+        "companyName": "VOLKSWAGEN DOĞUŞ FİNANSMAN A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YKFKT",
+        "companyName": "YAPI KREDİ FAKTORİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YKFIN",
+        "companyName": "YAPI KREDİ FİNANSAL KİRALAMA A.O.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YAPRK",
+        "companyName": "YAPRAK SÜT VE BESİ ÇİFTLİKLERİ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YATAS",
+        "companyName": "YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YATVK",
+        "companyName": "YATIRIM VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YYLGD",
+        "companyName": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YAYLA",
+        "companyName": "YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YGGYO",
+        "companyName": "YENİ GİMAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YEOTK",
+        "companyName": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YYAPI",
+        "companyName": "YEŞİL YAPI ENDÜSTRİSİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YESIL",
+        "companyName": "YEŞİL YATIRIM HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YBTAS",
+        "companyName": "YİBİTAŞ YOZGAT İŞÇİ BİRLİĞİ İNŞAAT MALZEMELERİ TİCARET VE SANAYİ A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YIGIT",
+        "companyName": "YİĞİT AKÜ MALZEMELERİ NAKLİYAT TURİZM İNŞAAT SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YONGA",
+        "companyName": "YONGA MOBİLYA SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YKSLN",
+        "companyName": "YÜKSELEN ÇELİK A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "YUNSA",
+        "companyName": "YÜNSA YÜNLÜ SANAYİ VE TİCARET A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZGYO",
+        "companyName": "Z GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZEDUR",
+        "companyName": "ZEDUR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZERGY",
+        "companyName": "ZERAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZRGYO",
+        "companyName": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZKBVK",
+        "companyName": "ZİRAAT KATILIM VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZKBVR",
+        "companyName": "ZKB VARLIK KİRALAMA A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "ZOREN",
+        "companyName": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+        "_source": "[cite: 4]"
+    },
+    {
+        "ticker": "BINHO",
+        "companyName": "1000 YATIRIMLAR HOLDİNG A.Ş.",
+        "_source": "[cite: 4]"
+    }
+]
